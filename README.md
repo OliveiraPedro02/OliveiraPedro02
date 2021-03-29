@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OliveiraPedro02
-- 👀 I’m interested in math, programming, finance (in specific Quant. Finance).
+- 👀 I’m interested in math, programming, finance (in specific Math, Statistics, Finance).
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me via linkedIn: https://www.linkedin.com/in/pedro-henrique-rezende-oliveira-659914133/
