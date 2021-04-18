@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OliveiraPedro02
-- 👀 I’m interested in math, programming, finance (in specific Math, Statistics, Finance).
+- 👀 I’m interested in math, finance, statics, programming, etc.
 - 🎯 I'm improving my chess playing (https://lichess.org/@/RezendeOliveira)
 - 🌱 I’m currently doing my second master degree in Statics and Data Science and learning Java
 - 💞️ I’m looking to collaborate on 
