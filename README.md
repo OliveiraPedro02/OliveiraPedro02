@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OliveiraPedro02
 - 👀 I’m interested in math, finance, statics, programming, etc.
 - 🎯 I'm improving my chess game (https://lichess.org/@/RezendeOliveira)
-- 🌱 I’m currently doing my second master degree in Statics and Data Science and learning Java
+- 🌱 I’m currently learning Java
 - 📫 How to reach me via linkedIn: https://www.linkedin.com/in/pedro-henrique-rezende-oliveira-659914133/
                           email: pedro-henrique.rezende@solvaypostgrad.net
 
